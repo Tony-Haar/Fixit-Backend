@@ -2,3 +2,5 @@ client.py
 endpoints.txt
 er.txt
 db.sqlite3-journal
+.env
+db.sqlite3
